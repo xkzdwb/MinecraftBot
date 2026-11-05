@@ -1,0 +1,18 @@
+{
+  "name": "mcbot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "本地 Minecraft 1.21.1 假人机器人(挖矿/跟随/挂机)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "selftest": "node selftest.mjs"
+  },
+  "dependencies": {
+    "mineflayer": "^4.39.0",
+    "mineflayer-auto-eat": "^5.0.3",
+    "mineflayer-collectblock": "^1.6.0",
+    "mineflayer-pathfinder": "^2.4.5"
+  }
+}

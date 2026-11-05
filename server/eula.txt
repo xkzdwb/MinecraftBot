@@ -1,0 +1,2 @@
+# 同意 Minecraft EULA 才能启动服务端: https://aka.ms/MinecraftEULA
+eula=true

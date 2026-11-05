@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "8c93497a-5d10-39b0-be09-471334b7fde8",
+    "name": "XiaoMing",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bb77495a-a740-3169-a238-69654c8bd2c1",
+    "name": "TestPlayer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
